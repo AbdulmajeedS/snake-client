@@ -28,7 +28,7 @@ const handleUserInput = function(key) {
     conn.write("Move: right");
   }
   // your code here
-  console.log("this is the wrong key");
+  console.log("dust them fam");
 };
 
 // setupInput();
